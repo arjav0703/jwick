@@ -1,8 +1,19 @@
-@import url('https://fonts.googleapis.com/css2?family=Caesar+Dressing&family=Roboto:wght@100..900&display=swap');
-* {
-    font-family: "Caesar Dressing", serif;
+@import url('https://fonts.googleapis.com/css2?family=Rubik+Dirt&display=swap');
+*{    
+    font-family: "Rubik Dirt", serif;
     color: azure;
     background-color: rgb(27, 26, 26);
     font-weight: 400;
     font-style: normal;
+    
+}
+h1 {
+    font-weight: 900;
+    color: white;
+    font-size: 70px;
+}
+ 
+img{
+    border-radius: 10%;
+    margin: 50px;
 }
